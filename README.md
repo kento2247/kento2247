@@ -77,40 +77,10 @@
 
 ## Worked On
 
-<p>&nbsp;</p>
-
-<table cellspacing="10" cellpadding="0">
-  <tr>
-    <td bgcolor="#ffffff" width="240" style="border-radius: 12px; padding: 10px 14px;">
-      <a href="https://aic.keio.ac.jp/">
-        <img alt="Keio AIC" src="https://aic.keio.ac.jp/wps/wp-content/themes/theme_2025_v4/library/images/android-icon-192x192.png" height="24" align="absmiddle" />
-        &nbsp;&nbsp;Keio AIC
-      </a>
-    </td>
-    <td bgcolor="#ffffff" width="240" style="border-radius: 12px; padding: 10px 14px;">
-      <a href="https://www.hicrea.co.jp">
-        <img alt="Hicrea" src="https://assets.st-note.com/production/uploads/images/179050487/profile_5d82aae6a069b3afe5e663cf18846f1e.png?fit=bounds&format=jpeg&quality=85&width=330" height="24" align="absmiddle" />
-        &nbsp;&nbsp;Hicrea
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#ffffff" width="240" style="border-radius: 12px; padding: 10px 14px;">
-      <a href="https://corporate.m3.com/en/corporate">
-        <img alt="M3, Inc." src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJyRgRy3ek-tavA-xf5lZhCdYt5_1ollgeAg&s" height="24" align="absmiddle" />
-        &nbsp;&nbsp;M3, Inc.
-      </a>
-    </td>
-    <td bgcolor="#ffffff" width="240" style="border-radius: 12px; padding: 10px 14px;">
-      <a href="https://www.sony.com/">
-        <img alt="Sony Group" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/sony-r0m1kil9bmro7oodv8xjq.png/sony-1tt2lki9d3zfodspemzjno.png?_a=DATAiZAAZAA0" height="24" align="absmiddle" />
-        &nbsp;&nbsp;Sony Group
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p>&nbsp;</p>
+- <img alt="Keio AIC" src="https://aic.keio.ac.jp/wps/wp-content/themes/theme_2025_v4/library/images/android-icon-192x192.png" height="18" align="absmiddle" /> [Keio AIC](https://aic.keio.ac.jp/)
+- <img alt="Hicrea" src="https://assets.st-note.com/production/uploads/images/179050487/profile_5d82aae6a069b3afe5e663cf18846f1e.png?fit=bounds&format=jpeg&quality=85&width=330" height="18" align="absmiddle" /> [Hicrea](https://www.hicrea.co.jp)
+- <img alt="M3, Inc." src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJyRgRy3ek-tavA-xf5lZhCdYt5_1ollgeAg&s" height="18" align="absmiddle" /> [M3, Inc.](https://corporate.m3.com/en/corporate)
+- <img alt="Sony Group" src="https://www.jtcbkk.com/wp-content/uploads/2018/11/1c439ba11526d2cb9126a3c3d2d774e2.jpg" height="18" align="absmiddle" /> [Sony Group](https://www.sony.com/)
 
 ## Links
 
