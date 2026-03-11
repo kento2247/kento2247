@@ -15,7 +15,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kento2247)
 
-<!-- 
 <p align="left">
   <a href="https://github.com/kento2247">
     <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kento2247&count_private=true&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
@@ -23,7 +22,9 @@
   <a href="https://github.com/kento2247">
     <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kento2247&layout=compact&hide_border=true" alt="Top languages" />
   </a>
-</p> -->
+</p>
+
+<br clear="left" />
 
 ## Tech Stack
 
