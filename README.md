@@ -88,4 +88,4 @@
 - Portfolio: https://kento2247.github.io/profile/
 - Products:
     - [Vestory](https://vestory.jp/)
-    - [AIC Digital Members Platform](https://members.keioaic.dev/login?redirect_to=%2F)
+    - [AIC Digital Members Platform](https://aic.keio.ac.jp/event_post/digital-membership/)
