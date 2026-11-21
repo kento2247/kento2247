@@ -13,5 +13,5 @@ AI agent / SaaS for fashion inventory management. It supports SKU-level ordering
 - https://vestory.jp/
 
 ### AIC Digital Members Platform
-Digital membership system for Keio AIC (AI and programming student organization). Each member gets a personal QR code for event and workshop registration and check-in, and a My Page that lists past participation. Members can register through the AIC official LINE account. Operated by the AIC DX team.
+Digital membership system for Keio AIC (AI and programming student organization). Each member gets a personal QR code for event and workshop registration and check-in, and a My Page that lists past participation. Members can register through the AIC official LINE account. Operated by the AIC DX team. Over 1,700 users.
 - https://aic.keio.ac.jp/event_post/digital-membership/
